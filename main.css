@@ -1,4 +1,4 @@
-******************************
+/******************************
 -> CSS reset
 *******************************/
 
@@ -68,6 +68,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: #2C3E50;
     font-size: 2em;
     font-family: 'Lato', sans-serif;
@@ -232,7 +233,7 @@ div pre code {
 }
 
 /* Ruy in CSS */
-/*#ruy-css {
+/* #ruy-css {
     height: 500px;
     width: 500px;
     background: url('images/ruy_stand_still.png') no-repeat;
@@ -261,4 +262,4 @@ div pre code {
 @-webkit-keyframes moveLeft {
     0%   {margin-left:390px;}
     100%  {margin-left:1000px;}
-}
+} */
