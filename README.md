@@ -1,6 +1,7 @@
 # Intro to KISSY
 Forked from [carlsednaoui/intro-to-jquery](https://github.com/carlsednaoui/intro-to-jquery).  
-跟着街霸玩KISSY
+跟着街霸玩KISSY  
+[去我的博客看看在线演示](http://snger.github.io/lab/intro-to-kissy.html)
 
 ## Finding the guide
 intro-to-jquery guide lives at [Thinkful.com/learn/intro-to-jquery](http://www.thinkful.com/learn/intro-to-jquery).
